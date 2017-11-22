@@ -4,6 +4,9 @@ import javax.swing.*;
 import java.awt.*;
 import java.util.ArrayList;
 
+/**
+ * controller
+ */
 public class BallComponent extends JPanel{
 	private static final int DEFAULT_WIDTH=450;
 	private static final int DEFAULT_HEIGHT=350;
