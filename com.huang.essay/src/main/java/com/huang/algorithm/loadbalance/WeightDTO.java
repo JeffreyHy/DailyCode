@@ -1,11 +1,11 @@
-package com.huang.algorithm;
+package com.huang.algorithm.loadbalance;
 
 import java.io.Serializable;
 
 /**
  * Created by JeffreyHy on 2017/10/30.
  */
-public class WeightDTO implements Serializable{
+public class WeightDTO implements Serializable {
     private int weight;
     private int minR;
 

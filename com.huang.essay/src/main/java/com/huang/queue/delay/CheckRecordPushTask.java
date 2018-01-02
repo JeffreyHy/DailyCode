@@ -7,7 +7,7 @@ import org.slf4j.LoggerFactory;
  * Created by JeffreyHy on 2018/1/2.
  */
 public class CheckRecordPushTask implements Runnable {
-    private static Logger logger = LoggerFactory.getLogger(CheckRecordPushTask.class);
+    private  Logger logger = LoggerFactory.getLogger(this.getClass());
 
     private CheckNotifyManager manager;
 

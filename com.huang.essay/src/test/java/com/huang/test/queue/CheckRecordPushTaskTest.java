@@ -11,7 +11,7 @@ import org.junit.Test;
  */
 public class CheckRecordPushTaskTest extends TestCase {
     @Test
-    public void testPushNotice() {
+    public void testPushNoticeWithDelayQueue() {
         CheckNotifyManager manager = new CheckNotifyManager();
         manager.addNotice(new CheckNoticeDelay(1, System.currentTimeMillis() + 1 * 1000));//1s
         manager.addNotice(new CheckNoticeDelay(2, System.currentTimeMillis() + 6 * 1000));//6s
