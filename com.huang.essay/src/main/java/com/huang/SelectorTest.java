@@ -5,7 +5,7 @@ import java.nio.channels.Selector;
 
 /**
  * 查看每个Selector占用的端口
- * Created by huangyongbo on 2017/8/13.
+ * Created by JeffreyHy on 2017/8/13.
  */
 public class SelectorTest {
     private static final int SELECTOR_SIZR=2;

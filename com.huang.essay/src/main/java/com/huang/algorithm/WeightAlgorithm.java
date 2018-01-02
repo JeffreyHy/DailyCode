@@ -1,10 +1,10 @@
-package com.huang;
+package com.huang.algorithm;
 
 import java.util.*;
 
 /**
  *  加权选择算法
- * Created by huangyongbo on 2017/10/30.
+ * Created by JeffreyHy on 2017/10/30.
  */
 public class WeightAlgorithm {
     public static Map<String, Integer> methodMap = new HashMap<>();

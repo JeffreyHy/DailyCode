@@ -1,9 +1,9 @@
-package com.huang;
+package com.huang.algorithm;
 
 import java.io.Serializable;
 
 /**
- * Created by huangyongbo on 2017/10/30.
+ * Created by JeffreyHy on 2017/10/30.
  */
 public class WeightDTO implements Serializable{
     private int weight;

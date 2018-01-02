@@ -6,7 +6,7 @@ import java.util.Collections;
 import java.util.List;
 
 /**
- * Created by huangyongbo on 2017/10/9.
+ * Created by JeffreyHy on 2017/10/9.
  */
 public class CollectionSortTest {
     public static void main(String[] args) {

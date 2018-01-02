@@ -4,7 +4,7 @@ import java.io.IOException;
 import java.nio.channels.Selector;
 
 /**
- * Created by huangyongbo on 2017/8/13.
+ * Created by JeffreyHy on 2017/8/13.
  */
 public class SelectorWakeupTest {
 

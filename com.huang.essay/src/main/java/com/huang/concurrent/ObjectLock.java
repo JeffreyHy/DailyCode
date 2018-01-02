@@ -1,7 +1,7 @@
 package com.huang.concurrent;
 
 /**
- * Created by huangyongbo on 2017/10/28.
+ * Created by JeffreyHy on 2017/10/28.
  */
 public class ObjectLock {
     private String  str="111";

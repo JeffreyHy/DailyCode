@@ -3,7 +3,7 @@ package com.huang;
 import java.lang.management.ManagementFactory;
 
 /**
- * Created by huangyongbo on 2017/8/13.
+ * Created by JeffreyHy on 2017/8/13.
  */
 public class TestUtils {
     public static void printJVMPid(){

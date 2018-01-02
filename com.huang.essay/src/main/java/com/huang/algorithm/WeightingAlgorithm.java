@@ -1,9 +1,11 @@
-package com.huang;
+package com.huang.algorithm;
+
+import com.huang.algorithm.WeightDTO;
 
 import java.util.*;
 
 /**
- * Created by huangyongbo on 2017/10/30.
+ * Created by JeffreyHy on 2017/10/30.
  */
 public class WeightingAlgorithm {
     static final String methodA="methodA";

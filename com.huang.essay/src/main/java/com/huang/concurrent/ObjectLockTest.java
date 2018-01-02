@@ -5,7 +5,7 @@ import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
 
 /**
- * Created by huangyongbo on 2017/10/28.
+ * Created by JeffreyHy on 2017/10/28.
  */
 public class ObjectLockTest {
     public static void main(String[] args) throws IllegalAccessException, InterruptedException {
