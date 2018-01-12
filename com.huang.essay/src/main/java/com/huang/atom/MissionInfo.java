@@ -1,4 +1,4 @@
-package com.huang.concurrent;
+package com.huang.atom;
 
 /**
  * Created by huangyongbo on 2018/1/9.

@@ -1,7 +1,7 @@
 package com.huang.test.concurrent;
 
 import com.huang.concurrent.MissionHolder;
-import com.huang.concurrent.MissionInfo;
+import com.huang.atom.MissionInfo;
 import junit.framework.TestCase;
 import org.junit.Test;
 import org.slf4j.Logger;

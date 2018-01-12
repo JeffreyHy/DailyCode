@@ -1,5 +1,6 @@
 package com.huang.concurrent;
 
+import com.huang.atom.MissionInfo;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
