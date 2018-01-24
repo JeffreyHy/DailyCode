@@ -10,10 +10,11 @@ import java.util.Set;
  * @author JeffreyHy
  * @date Created by  2018/1/24 18:30
  */
-public class DynamicDataSourceContextHolder {
+public final class DynamicDataSourceContextHolder {
+    private DynamicDataSourceContextHolder() {
+    }
 
     private static final ThreadLocal<String> contextHolder = new ThreadLocal<String>() {
-
         /**
          * 将 master 数据源的 key 作为默认数据源的 key
          */
