@@ -4,6 +4,12 @@ package com.huang.datatsource;
 import java.util.HashSet;
 import java.util.Set;
 
+/**
+ * datasource holder
+ *
+ * @author JeffreyHy
+ * @date Created by  2018/1/24 18:30
+ */
 public class DynamicDataSourceContextHolder {
 
     private static final ThreadLocal<String> contextHolder = new ThreadLocal<String>() {

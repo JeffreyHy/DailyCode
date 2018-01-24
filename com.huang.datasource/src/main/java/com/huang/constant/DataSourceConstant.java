@@ -1,7 +1,10 @@
 package com.huang.constant;
 
 /**
- * Created by huangyongbo on 2018/1/5.
+ * datasource constant definition
+ *
+ * @author JeffreyHy
+ * @date Created by  2018/1/24 18:30
  */
 public class DataSourceConstant {
     public static final String DATASOURCE_NAME = "vDataSource";

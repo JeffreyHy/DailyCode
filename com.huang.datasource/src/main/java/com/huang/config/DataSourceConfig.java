@@ -22,6 +22,10 @@ import org.springframework.jdbc.datasource.DataSourceTransactionManager;
 import javax.annotation.Resource;
 import javax.sql.DataSource;
 
+/**
+ * @author JeffreyHy
+ * @date Created by  2018/1/24 18:30
+ */
 @Configuration
 @MapperScan(basePackages = {DataSourceConstant.MAPPER_PACKAGES}, sqlSessionFactoryRef = DataSourceConstant.SESSION_FACTORY_NAME)
 public class DataSourceConfig {

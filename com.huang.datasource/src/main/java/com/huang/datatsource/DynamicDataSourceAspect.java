@@ -8,7 +8,12 @@ import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.core.annotation.Order;
 
-
+/**
+ * aop
+ *
+ * @author JeffreyHy
+ * @date Created by  2018/1/24 18:30
+ */
 @Aspect
 @Order(-1) // 保证该AOP在@Transactional之前执行
 public class DynamicDataSourceAspect {
