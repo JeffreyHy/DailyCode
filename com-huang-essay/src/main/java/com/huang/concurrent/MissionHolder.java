@@ -9,7 +9,7 @@ import java.util.concurrent.ConcurrentHashMap;
 
 /**
  *  从ConcurrentHashMap取出元素，判断为空则加入，不为空则返回；推荐用putIfAbsent，否则无法保证线程安全，需要加锁
- * Created by huangyongbo on 2018/1/9.
+ * Created by JeffreyHy on 2018/1/9.
  */
 public class MissionHolder {
     private static Logger logger = LoggerFactory.getLogger(MissionHolder.class);

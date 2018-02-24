@@ -1,7 +1,7 @@
 package com.huang.atom;
 
 /**
- * Created by huangyongbo on 2018/1/9.
+ * Created by JeffreyHy on 2018/1/9.
  */
 public class MissionInfo {
     private Integer missionId;

@@ -10,7 +10,7 @@ import java.util.Calendar;
 import java.util.Date;
 
 /**
- * Created by huangyongbo on 2018/1/2.
+ * Created by JeffreyHy on 2018/1/2.
  */
 public final class DateUtil {
     private DateUtil() {
