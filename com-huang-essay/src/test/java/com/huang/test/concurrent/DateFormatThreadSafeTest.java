@@ -18,7 +18,7 @@ import java.util.concurrent.CountDownLatch;
  * @author JeffreyHy
  * @date Created by  2018/3/8 10:10
  */
-public class DateFormatTest extends TestCase {
+public class DateFormatThreadSafeTest extends TestCase {
     private Logger logger = LoggerFactory.getLogger(this.getClass());
     private static final DateFormat DEFAULT_DATE_FORMAT = new SimpleDateFormat("yyyy-MM-dd");
 
